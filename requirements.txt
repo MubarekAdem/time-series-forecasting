@@ -1,0 +1,14 @@
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scipy
+scikit-learn
+pmdarima
+tensorflow
+keras
+ipykernel
+nbconvert
+jupyter
