@@ -1,0 +1,11 @@
+{
+  "weights": {
+    "TSLA": 0.25669,
+    "BND": 0.0,
+    "SPY": 0.74331
+  },
+  "expected_return": 0.19362438756771252,
+  "volatility": 0.24190649851065701,
+  "sharpe_ratio": 0.6350568856708275,
+  "type": "Max Sharpe Ratio"
+}

@@ -1,0 +1,32 @@
+{
+  "recommended_portfolio": "Max Sharpe Ratio",
+  "rationale": "Optimizes risk-adjusted returns for growth-oriented investors",
+  "allocation": {
+    "TSLA": 0.25669,
+    "BND": 0.0,
+    "SPY": 0.74331
+  },
+  "metrics": {
+    "expected_return": 0.19362438756771252,
+    "volatility": 0.24190649851065701,
+    "sharpe_ratio": 0.6350568856708275
+  },
+  "alternative": {
+    "name": "Min Volatility",
+    "allocation": {
+      "TSLA": 0.0,
+      "BND": 0.94272,
+      "SPY": 0.05728
+    },
+    "metrics": {
+      "expected_return": 0.02583517927082164,
+      "volatility": 0.052565718382402364,
+      "sharpe_ratio": -0.2694687938274306
+    }
+  },
+  "individual_returns": {
+    "TSLA": 0.3621943311635838,
+    "BND": 0.019177191992124865,
+    "SPY": 0.13541131002193274
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "weights": {
+    "TSLA": 0.0,
+    "BND": 0.94272,
+    "SPY": 0.05728
+  },
+  "expected_return": 0.02583517927082164,
+  "volatility": 0.052565718382402364,
+  "sharpe_ratio": -0.2694687938274306,
+  "type": "Minimum Volatility"
+}
