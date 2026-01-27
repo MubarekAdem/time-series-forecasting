@@ -134,10 +134,4 @@ python scripts/backtest_strategy.py
 
 - yfinance, pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn, pmdarima, tensorflow, pypfopt
 
-## Author
 
-Mohammed Sultan
-
-## License
-
-This project is for educational purposes.
